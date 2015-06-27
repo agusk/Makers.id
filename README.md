@@ -6,4 +6,4 @@ Penerbitan
 Berikut ini majalah Makers.id yang telah terbit.
 * Volume 1
 * Volume 2
-![alt text](images/vol2.png "Majalah Makers.id Volume 2")
+![alt text](/images/vol2.jpg "Majalah Makers.id Volume 2")
