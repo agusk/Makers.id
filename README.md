@@ -4,4 +4,5 @@ Majalah Makers.id sumber kode dan program. Majalah Makers.id dapat diunduh secar
 
 # Penerbitan
 Berikut ini majalah Makers.id yang telah terbit.
+
 ![alt text](/images/vol2.jpg "Majalah Makers.id Volume 2")
